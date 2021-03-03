@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="hello">Make Yourself Heard!</string>
+    <string name="app_name">Speaker</string>
+    <string name="play_it_sam">Speak</string>
+
+</resources>
